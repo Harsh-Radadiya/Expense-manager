@@ -1,6 +1,7 @@
 # expencemanager
 
-A new Flutter project.
+Expense Manager App build using flutter framework.
+Expense Manager use to track your daily expenses and you can see your expenses according Daily, Monthly, and Yearly graph and it has attractive UI.
 
 ## Getting Started
 
